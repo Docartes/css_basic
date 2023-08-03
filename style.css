@@ -1,0 +1,32 @@
+#home {
+	font-family: "Manjari", sans-serif;
+	margin-top: 200px;
+
+	margin-bottom: 250px;
+}
+
+#body {
+	scroll-behavior: smooth;
+}
+
+#credits {
+	font-family: "Manjari";
+	margin-bottom: 30px;
+}
+
+#gallery {
+	font-family: "Manjari", sans-serif;
+	margin-bottom: 250px;
+}
+
+#gallery img {
+	margin: 10px 0;
+}
+
+#credits img {
+	margin: 0 20px;
+}
+
+nav {
+	font-family: "Poppins";
+}
